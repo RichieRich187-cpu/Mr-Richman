@@ -3,7 +3,7 @@
 Done By: Richard Marais © ExploreAI 2024
 
 <div id="main image" align="center">
-  <img src="[https://www.google.co.za/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fthe-mobile-devices-contain-globes-and-have-the-internet_2769228.html&psig=AOvVaw3tE35YX5nSZaerSA-6lySf&ust=1736276097493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCKmKXj4YoDFQAAAAAdAAAAABAE](https://www.shutterstock.com/image-vector/seamless-smartphone-cellphone-mobile-device-background-195042176)"width="550" height="300" alt=""/>
+  <img src="[https://www.google.co.za/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fthe-mobile-devices-contain-globes-and-have-the-internet_2769228.html&psig=AOvVaw3tE35YX5nSZaerSA-6lySf&ust=1736276097493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCKmKXj4YoDFQAAAAAdAAAAABAE](https://www.shutterstock.com/image-vector/seamless-smartphone-cellphone-mobile-device-background-195042176)](https://www.google.co.za/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmobile-technology&psig=AOvVaw0b9L_CI1SaEttN0lfRCsJx&ust=1736276853483000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCNi4srrl4YoDFQAAAAAdAAAAABAE)"width="550" height="300" alt=""/>
 </div>
 
 # Table of Contents
