@@ -109,4 +109,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
+# References
+GITHUB: https://github.com/RichieRich187-cpu/Mr-Richman
+
 
