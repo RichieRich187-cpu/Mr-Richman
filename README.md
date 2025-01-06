@@ -30,7 +30,7 @@ Welcome to our groundbreaking project on Mobile Device Usage and User Behavior. 
 
 # Goals
 
-# Data Collection and Analysis <span style="font-size: smaller;">This is smaller text.</span>
+# Data Collection and Analysis 
 Gather data on user interactions with mobile devices.
 Identify trends and insights from this data.
 
