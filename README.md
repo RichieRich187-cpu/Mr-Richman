@@ -3,6 +3,7 @@
 Done By: Richard Marais © ExploreAI 2024
 
 # Table of Contents
+
 Background Context
 
 1. Importing Packages
@@ -26,7 +27,9 @@ Background Context
 10. References
 
 # Background Context
-Welcome to our groundbreaking project on Mobile Device Usage and User Behavior. Our goal is to understand how we interact with mobile devices and uncover patterns that define our digital lives.
+Welcome to our groundbreaking project on Mobile Device Usage and User Behavior. 
+
+Our goal is to understand how we interact with mobile devices and uncover patterns that define our digital lives.
 
 # Goals
 
