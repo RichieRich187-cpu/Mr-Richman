@@ -2,9 +2,11 @@
 
 Done By: Richard Marais © ExploreAI 2024
 
-https://www.google.co.za/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fthe-mobile-devices-contain-globes-and-have-the-internet_2769228.html&psig=AOvVaw3tE35YX5nSZaerSA-6lySf&ust=1736276097493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCKmKXj4YoDFQAAAAAdAAAAABAE
+<div id="main image" align="center">
+  <img src="https://www.google.co.za/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fthe-mobile-devices-contain-globes-and-have-the-internet_2769228.html&psig=AOvVaw3tE35YX5nSZaerSA-6lySf&ust=1736276097493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCKmKXj4YoDFQAAAAAdAAAAABAE"width="550" height="300" alt=""/>
+</div>
 
-# Table of Contents
+## Table of Contents
 
 Background Context
 
