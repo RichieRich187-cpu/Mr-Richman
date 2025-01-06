@@ -1,7 +1,8 @@
-**Mobile Device Usage and User Behaviour**
+# Mobile Device Usage and User Behaviour
+
 Done By: Richard Marais © ExploreAI 2024
 
-**Table of Contents**
+# Table of Contents
 Background Context
 
 Importing Packages
